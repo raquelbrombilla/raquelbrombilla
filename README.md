@@ -1,7 +1,6 @@
-### Olá, eu sou a Raquel!
+### Hey, eu sou a Raquel!
 
-Atualmente trabalho na área de desenvolvimento web.
-Fiz um curso de técnico em informática de 2018 até 2020 e agora estou cursando Ciência da Computação.
+Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computação.
 
 <div align="center">
   <a href="https://github.com/raquelbrombilla">
