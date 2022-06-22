@@ -14,12 +14,10 @@ Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computa
 <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034620-a628c61c-36ac-4cbc-bfc5-e50dd01fd290.svg"/>
 <img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034733-ed6e9993-bd3a-43ae-b472-036a054f26a7.svg"/>
-<img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034771-8cf855c0-58c4-4dbc-a1db-6e8524d50396.svg"/>
-<img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034831-0648389c-2a50-41de-8647-87f1d042e42f.svg"/>
-<img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034876-e2045ec8-af6c-4b34-ae44-6365ae152e18.svg"/>
-<img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175035109-75482d8d-3a1a-447b-8ce7-674bfd01402b.svg"/>
-   
-    
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+ 
  </div>
   
  ##
