@@ -16,7 +16,7 @@ Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computa
 <img align="center" height="30" src="https://user-images.githubusercontent.com/43659171/175034427-9fdb2343-7a80-4fa4-aefa-2f57568f2a11.svg"/>
 <img align="center" height="30" src="https://user-images.githubusercontent.com/43659171/175034427-9fdb2343-7a80-4fa4-aefa-2f57568f2a11.svg"/>
 <img align="center" height="30" src="https://user-images.githubusercontent.com/43659171/175034427-9fdb2343-7a80-4fa4-aefa-2f57568f2a11.svg"/>
-<img align="center" height="30" src="https://user-images.githubusercontent.com/43659171/175034427-9fdb2343-7a80-4fa4-aefa-2f57568f2a11.svg](https://user-images.githubusercontent.com/43659171/175035109-75482d8d-3a1a-447b-8ce7-674bfd01402b.svg"/>
+<img align="center" height="30" src="[https://user-images.githubusercontent.com/43659171/175034427-9fdb2343-7a80-4fa4-aefa-2f57568f2a11.svg](https://user-images.githubusercontent.com/43659171/175035109-75482d8d-3a1a-447b-8ce7-674bfd01402b.svg](https://user-images.githubusercontent.com/43659171/175035109-75482d8d-3a1a-447b-8ce7-674bfd01402b.svg)"/>
    
     
  </div>
