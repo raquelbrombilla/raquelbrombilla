@@ -8,7 +8,7 @@ Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computa
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelbrombilla&layout=compact&langs_count=7&theme=dracula"/>
   
     
-<img src="https://user-images.githubusercontent.com/43659171/175034427-9fdb2343-7a80-4fa4-aefa-2f57568f2a11.svg"/>
+<img height="80em" src="https://user-images.githubusercontent.com/43659171/175034427-9fdb2343-7a80-4fa4-aefa-2f57568f2a11.svg"/>
     
    
  ##
