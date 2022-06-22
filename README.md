@@ -8,7 +8,7 @@ Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computa
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelbrombilla&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
- <div style="display: inline-block;" align="center">
+ <div style="display: inline-block; padding-top:1rem;" align="center">
   
 <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/43659171/175037413-6ef7279a-0109-4484-8f5e-0fc947d96fb7.svg"/>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
