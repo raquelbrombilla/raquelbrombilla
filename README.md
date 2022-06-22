@@ -10,8 +10,8 @@ Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computa
 
  <div style="display: inline-block;" align="center">
   
-<img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034542-3dbd8250-4458-4461-85f5-659d4a4fa9f0.svg"/>
-<img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034427-9fdb2343-7a80-4fa4-aefa-2f57568f2a11.svg"/>
+<img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175037413-6ef7279a-0109-4484-8f5e-0fc947d96fb7.svg"/>
+<img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034620-a628c61c-36ac-4cbc-bfc5-e50dd01fd290.svg"/>
 <img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034733-ed6e9993-bd3a-43ae-b472-036a054f26a7.svg"/>
 <img align="center" height="40" src="https://user-images.githubusercontent.com/43659171/175034771-8cf855c0-58c4-4dbc-a1db-6e8524d50396.svg"/>
