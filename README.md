@@ -11,7 +11,7 @@ Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computa
  <div style="display: inline-block;" align="center">
   
 <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/43659171/175037413-6ef7279a-0109-4484-8f5e-0fc947d96fb7.svg"/>
-<img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/43659171/175034620-a628c61c-36ac-4cbc-bfc5-e50dd01fd290.svg"/>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/43659171/175034733-ed6e9993-bd3a-43ae-b472-036a054f26a7.svg"/>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
