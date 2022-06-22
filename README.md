@@ -9,8 +9,11 @@ Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computa
 </div>
   
  ##
-  
-<div> 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+          
+ 
+<div align="center"> 
   <a href="https://instagram.com/raquelbrombilla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/y6GY2Kz5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:raquelbrombilla11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
