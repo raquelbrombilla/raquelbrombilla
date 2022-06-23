@@ -1,6 +1,12 @@
-### Hey, eu sou a Raquel!
+### Hi, I'm Raquel!
 
-Trabalho com desenvolvimento web e sou estudante do curso de Ciência da Computação.
+🙋 I'm a 19yo brazilian girl.
+
+🎓 I attended high school integrated with a technical course in computer science and fell in love by programming. ❤️
+
+💻 Now, I'm working with web development and I'm studying computer science in the 3rd semester. <br>
+📱 Also, I'm learning about mobile development with React Native.
+
 <br>
 <div align="center">
   <a href="https://github.com/raquelbrombilla">
