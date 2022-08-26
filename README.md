@@ -5,7 +5,6 @@
 🎓 I attended high school integrated with a technical course in computer science and fell in love by programming. ❤️
 
 💻 Now, I'm working with web development and I'm studying computer science in the 3rd semester. <br>
-📱 Also, I'm learning about mobile development with React Native.
 
 <br>
 <div align="center">
