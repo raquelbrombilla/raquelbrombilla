@@ -1,6 +1,6 @@
 ### Hi, I'm Raquel!
 
-🙋 I'm a 19yo brazilian girl.
+🙋 I'm a 20yo brazilian girl.
 
 🎓 I attended high school integrated with a technical course in computer science and fell in love by programming. ❤️
 
