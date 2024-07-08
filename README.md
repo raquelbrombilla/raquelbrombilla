@@ -1,10 +1,10 @@
 ### Hi, I'm Raquel!
 
-🙋 I'm a 20yo brazilian girl.
+🙋 I'm a 21yo brazilian girl.
 
 🎓 I attended high school integrated with a technical course in computer science and fell in love by programming. ❤️
 
-💻 Now, I'm working with web development and I'm studying computer science in the 5th semester. <br>
+💻 Now, I'm working with web development and RPA (Robot Process Automation) and I'm studying computer science in the 7th semester. <br>
 
 <br>
 <div align="center">
