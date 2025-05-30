@@ -1,10 +1,10 @@
-### Hi, I'm Raquel!
+### Hey, I'm Raquel!
 
-🙋 I'm a 21yo brazilian girl.
+🙋 I'm a 22yo brazilian girl.
 
-🎓 I attended high school integrated with a technical course in computer science and fell in love by programming. ❤️
+🎓 I attended high school integrated with a technical course in computer science and fell in love by programming. So, I continued my studies in an undergraduate degree in computer science. ❤️
 
-💻 Now, I'm working with web development and RPA (Robot Process Automation) and I'm studying computer science in the 7th semester. <br>
+💻 Now, I'm working with full stack development and RPA (Robot Process Automation) at Sicredi. <br>
 
 <br>
 <div align="center">
@@ -21,8 +21,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/43659171/175034733-ed6e9993-bd3a-43ae-b472-036a054f26a7.svg"/>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
-   
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
  
  </div>
